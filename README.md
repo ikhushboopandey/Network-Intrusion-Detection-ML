@@ -3,20 +3,11 @@ This repository documents the capstone project completed during the IBM SkillsBu
 
 The internship's primary goal is to provide hands-on experience in emerging technologies, enhancing employability and confidence by solving real-world challenges using the IBM SkillsBuild and IBM Cloud platforms.
 
-📝 Table of Contents
-Intern Details
-About the Internship
-Project: NETWORK INTRUSTION DETECTION
-Problem Statement
-Solution Overview
-⚙️ Technology Stack
-🚀 Project Workflow
-📊 Results
-📁 Repository Contents
 👨‍💻 Intern Details
 Name: KHUSHBOO PANDEY
 Institute: SHRI RAMSWAROOP MEMORIAL UNIVERSITY
 Duration: 4 Weeks (15th July 2025 to 7th August 2025)
+
 📖 About the Internship
 This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
 
