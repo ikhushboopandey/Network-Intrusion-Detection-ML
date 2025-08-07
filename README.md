@@ -6,7 +6,7 @@ The internship's primary goal is to provide hands-on experience in emerging tech
 📝 Table of Contents
 Intern Details
 About the Internship
-Project: Intelligent Classification of PMGSY Schemes
+Project: NETWORK INTRUSTION DETECTION
 Problem Statement
 Solution Overview
 ⚙️ Technology Stack
